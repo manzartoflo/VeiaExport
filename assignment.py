@@ -83,7 +83,7 @@ f = pandas.read_csv('assignment.csv')
     
     
     
-    str(msg.replace('\n', '').replace('\r', '').replace('\xa0', ''))
+#str(msg.replace('\n', '').replace('\r', '').replace('\xa0', ''))
     
     
     

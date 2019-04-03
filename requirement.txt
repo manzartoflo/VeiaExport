@@ -1,0 +1,6 @@
+urllib.parse
+googletrans
+bs4
+requests
+selenium
+pandas
